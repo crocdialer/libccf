@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/~schmidtfa/svn/diploma/!svn/ver/90/libccf/evaluation
+END
+evaUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/evaluation/evaUtils.h
+END
+ccfEvaluation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/~schmidtfa/svn/diploma/!svn/ver/90/libccf/evaluation/ccfEvaluation.cpp
+END
+sampleUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/evaluation/sampleUtils.h
+END
+plotRCP.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/evaluation/plotRCP.py
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/evaluation/CMakeLists.txt
+END

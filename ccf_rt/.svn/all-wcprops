@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/~schmidtfa/svn/diploma/!svn/ver/115/libccf/ccf_rt
+END
+CCF_Context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/~schmidtfa/svn/diploma/!svn/ver/103/libccf/ccf_rt/CCF_Context.cpp
+END
+FreshDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/FreshDetector.cpp
+END
+FeatureExtraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/~schmidtfa/svn/diploma/!svn/ver/111/libccf/ccf_rt/FeatureExtraction.h
+END
+SaliencyDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/~schmidtfa/svn/diploma/!svn/ver/85/libccf/ccf_rt/SaliencyDetector.cpp
+END
+Trajector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/Trajector.h
+END
+CCF_Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~schmidtfa/svn/diploma/!svn/ver/62/libccf/ccf_rt/CCF_Context.h
+END
+CCF.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/CCF.h.in
+END
+HOGDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/HOGDetect.cpp
+END
+FreshDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/~schmidtfa/svn/diploma/!svn/ver/108/libccf/ccf_rt/FreshDetector.h
+END
+SaliencyDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/~schmidtfa/svn/diploma/!svn/ver/81/libccf/ccf_rt/SaliencyDetector.h
+END
+HOGDetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/HOGDetect.h
+END
+Colormap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/Colormap.cpp
+END
+Colormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/Colormap.h
+END
+CCF_Context_TBB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/CCF_Context_TBB.cpp
+END
+GaussianMixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/GaussianMixture.cpp
+END
+CCF_Context_TBB.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/CCF_Context_TBB.h
+END
+FeatureExtraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/~schmidtfa/svn/diploma/!svn/ver/115/libccf/ccf_rt/FeatureExtraction.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/CMakeLists.txt
+END
+GaussianMixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/GaussianMixture.h
+END
+Trajector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~schmidtfa/svn/diploma/!svn/ver/17/libccf/ccf_rt/Trajector.cpp
+END
